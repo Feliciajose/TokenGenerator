@@ -1,6 +1,4 @@
 # TokenGenerator
-Here’s a description you can use for your GitHub repository:
-
 ---
 
 ### Event Token Generator with QR Code
